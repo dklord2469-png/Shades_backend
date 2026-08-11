@@ -1,0 +1,2 @@
+com\sunglassstore\email\event\OrderConfirmationEmailRequested.class
+com\sunglassstore\service\impl\ProductServiceImpl.class
